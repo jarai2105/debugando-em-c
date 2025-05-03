@@ -1,2 +1,2 @@
 # debugando-em-c
-debugando um codigo  em c
+Debugando um codigo  em c
